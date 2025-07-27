@@ -5,9 +5,7 @@ I'm a passionate Full Stack Developer with 2 years of professional experience, r
 ## 👨‍💻 About Me
 
 - 🌟 Full Stack Developer experienced with Next.js, Node.js, Express, and NestJS
-- 🏢 Currently working at **Abexita IT** as a Full Stack Developer (2023–Present)
-- 🚀 Main contributor to the **Ambel Project** (Payment Gateway, Shop, Dashboard)
-- 🔐 Specialized in backend development, especially payment gateway solutions (last 7–8 months)
+- 🔐 Specialized in backend development, especially payment gateway solutions
 - 🛠️ Skilled in building robust, scalable web applications
 - 📜 Completed the "Complete Web Development" course from Programming Hero
 - 🌍 Travel enthusiast who loves exploring new places
@@ -15,7 +13,7 @@ I'm a passionate Full Stack Developer with 2 years of professional experience, r
 ## 🏆 Experience
 
 **Abexita IT**  
-_Full Stack Developer (2023–Present)_  
+_Full Stack Developer (2023–2025)_  
 - Developed and maintained features for the Ambel Project, including payment gateway integrations, e-commerce shop, and admin dashboard
 - Worked extensively with Next.js, Node.js, Express, and NestJS
 - Led backend initiatives, especially focusing on secure and scalable payment solutions
